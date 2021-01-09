@@ -1,0 +1,6 @@
+export enum TipoCronIntegracion {
+  INTEGRATION_PULL = "PULL",
+  INTEGRATION_PUSH = "PUSH",
+  INTEGRATION_ALL = "ALL",
+  INTEGRATION_NONE = "NONE"
+}

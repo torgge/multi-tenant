@@ -1,0 +1,6 @@
+export enum TipoContratoResponsableFlete {
+  NOESPECIFICADO = 'NOESPECIFICADO' , 
+  EMPRESAPAGA = 'EMPRESAPAGA', 
+  ENTIDADPAGA = 'ENTIDADPAGA', 
+  SINGASTOS = 'SINGASTOS'
+}
